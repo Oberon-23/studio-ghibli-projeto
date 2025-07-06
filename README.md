@@ -54,5 +54,5 @@ Este projeto é uma página estática criada para treinar práticas de HTML5 e C
 
 ## 👨‍💻 Autor
 Desenvolvido com carinho por Breno Silva Barros Rangel
-LinkedIn 
+
 
