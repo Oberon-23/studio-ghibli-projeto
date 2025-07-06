@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Studio_Ghibli_logo.svg" width="200" alt="Studio Ghibli Logo">
-</p>
+
 
 # 🌸 Studio Ghibli - Landing Page
 
