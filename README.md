@@ -2,54 +2,59 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/Studio_Ghibli_logo.svg" width="200" alt="Studio Ghibli Logo">
 </p>
 
-# 🌸 Studio Ghibli - Catálogo de Filmes
+# 🌸 Studio Ghibli - Landing Page
 
-Este projeto é um catálogo interativo de filmes do lendário estúdio de animação **Studio Ghibli**, desenvolvido com foco em prática de front-end e consumo de API.
+Landing page desenvolvida como homenagem ao universo mágico do **Studio Ghibli**, focando em design visual, responsividade e estruturação HTML/CSS moderna.
 
 ---
 
-## 🎬 Sobre o Projeto
+## 🎨 Sobre o Projeto
 
-A proposta foi criar uma página web que consome dados da **Studio Ghibli API**, listando filmes com suas descrições, diretores, anos de lançamento e outras informações relevantes.
+Este projeto é uma página estática criada para treinar práticas de HTML5 e CSS3 com foco em design e apresentação visual. A página simula uma vitrine para o Studio Ghibli, destacando títulos, personagens e elementos do estúdio.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- HTML5  
-- CSS3  
-- JavaScript (ES6)  
-- Fetch API  
-- [Studio Ghibli API](https://ghibliapi.vercel.app)  
-- Design responsivo (Mobile First)
-
----
-
-## 🖼️ Preview do Projeto
-
-<p align="center">
-  <img src="caminho/para/screenshot1.png" width="700" alt="Preview 1" />
-</p>
-<p align="center">
-  <img src="caminho/para/screenshot2.png" width="700" alt="Preview 2" />
-</p>
-
-> 💡 Substitua os caminhos por imagens reais que você deve adicionar na pasta do projeto (ex: `assets/screenshot1.png`) ou hospede-as e coloque o link completo.
+- HTML5 semântico  
+- CSS3 moderno  
+- Flexbox e Grid Layout  
+- Fontes do Google Fonts  
+- Design responsivo (Mobile First)  
+- Imagens e ilustrações inspiradas nos filmes
 
 ---
 
 ## ✨ Funcionalidades
 
-- ✅ Listagem dinâmica de filmes da API
-- ✅ Cards com título, imagem e sinopse
-- ✅ Layout responsivo
-- ✅ Organização por data ou diretor (opcional)
-- ✅ Design inspirado no estilo visual Ghibli
+- ✅ Layout 100% responsivo  
+- ✅ Estilo visual inspirado na estética Ghibli  
+- ✅ Estruturação semântica com HTML5  
+- ✅ Seções organizadas: introdução, galeria, personagens e rodapé  
+- ✅ Animações suaves com transições em CSS  
 
 ---
 
-## 🚀 Como rodar o projeto
+## 🖼️ Prévia do Projeto
+
+<p align="center">
+  <img src="assets/screenshot-ghibli.png" width="700" alt="Preview da landing page" />
+</p>
+
+> 💡 Dica: Substitua o caminho da imagem acima por uma imagem real do projeto.
+
+---
+
+## 🚀 Como Visualizar
 
 1. Clone o repositório:
    ```bash
    git clone https://github.com/Oberon-23/studio-ghibli-projeto.git
+   cd studio-ghibli-projeto
+   start index.html
+   ```
+
+## 👨‍💻 Autor
+Desenvolvido com carinho por Breno Silva Barros Rangel
+LinkedIn 
+
