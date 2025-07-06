@@ -36,10 +36,11 @@ Este projeto é uma página estática criada para treinar práticas de HTML5 e C
 ## 🖼️ Prévia do Projeto
 
 <p align="center">
-  <img src="assets/screenshot-ghibli.png" width="700" alt="Preview da landing page" />
+  <img src="a![image](https://github.com/user-attachments/assets/34d2ef1a-fa25-47e3-8952-43a1e6cf0723)
+" />
 </p>
 
-> 💡 Dica: Substitua o caminho da imagem acima por uma imagem real do projeto.
+
 
 ---
 
