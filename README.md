@@ -36,8 +36,7 @@ Este projeto é uma página estática criada para treinar práticas de HTML5 e C
 ## 🖼️ Prévia do Projeto
 
 <p align="center">
-  <img src="a![image](https://github.com/user-attachments/assets/34d2ef1a-fa25-47e3-8952-43a1e6cf0723)
-" />
+ https://studio-ghibli-projeto.vercel.app/
 </p>
 
 
